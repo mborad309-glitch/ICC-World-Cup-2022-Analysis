@@ -25,14 +25,6 @@ A Power BI dashboard that helps analyze the data related to ICC T20 World Cup 20
 
 ## Dashboard Screenshots
 
-## Batting Analysis
-
-![Batting](Screenshots/batting.jpeg)
-
-## Bowling Analysis
-
-![Bowling](Screenshots/bowling.jpeg)
-
-## Match & Ground Analysis
-
-![Match & Ground](Screenshots/matchground.jpeg)
+![Batting](batting.jpeg)
+![Bowling](bowling.jpeg)
+![Match & Ground](matchground.jpeg)
